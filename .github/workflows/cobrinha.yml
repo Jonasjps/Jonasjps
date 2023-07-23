@@ -17,7 +17,7 @@ jobs:
           github_user_name: Jonasjps
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/jekyll-build-pages:v1.0.8
+      - uses: crazy-max/ghaction-github-pages@v3.9.3
         with:
           target_branch: output
           build_dir: dist
