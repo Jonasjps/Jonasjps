@@ -1,3 +1,5 @@
+Olá! Sou um desenvolvedor front-end, atualmente cursando JavaScript puro, absolutamente apaixonado por tecnologia.
+
 <div>
   <a href="https://github.com/Jonasjps">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Jonasjps&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
