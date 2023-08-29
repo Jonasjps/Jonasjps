@@ -1,4 +1,4 @@
-Olá! Sou um desenvolvedor front-end, atualmente cursando JavaScript puro, absolutamente apaixonado por tecnologia.
+Olá me chamo Jonas! Sou um estundante em programação front-end, atualmente aprendendo JavaScript puro, apaixonado por tecnologia.
 
 <div>
   <a href="https://github.com/Jonasjps">
