@@ -36,7 +36,7 @@
 
 <p align="center">
   <img  src="github-contribution-grid-snake.svg"
-    alt="example" />
+    alt="Jonasjps" />
 </p></td></tr></table>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -45,7 +45,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosAlexandre197}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jonasjps}/count.svg" /></p>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
      
