@@ -14,7 +14,13 @@ Olá me chamo Jonas! Sou um estundante em programação front-end, atualmente ap
   <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
- 
+ <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
+
+<p align="center">
+  <img  src="github-contribution-grid-snake.svg"
+    alt="example" />
+</p></td></tr></table>
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
   ![Snake animation](https://github.com/Jonasjps/Jonasjps/blob/output/github-contribution-grid-snake.svg)
