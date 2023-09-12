@@ -35,7 +35,7 @@
 <img align='right' height='160' style="margin-right:20px" src='assets/zeig-infotech-seo-gif.gif' alt='Social Networks'>
 
 <p align="center">
-  <img  src="github-contribution-grid-snake.svgsvg"
+  <img  src="github-contribution-grid-snake.svg"
     alt="example" />
 </p></td></tr></table>
 
