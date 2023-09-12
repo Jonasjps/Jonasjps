@@ -37,9 +37,9 @@ Olá me chamo Jonas! Sou um estundante em programação front-end, atualmente ap
   </p> 
 </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosAlexandre197&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosAlexandre197&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarlosAlexandre197&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonasjps&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonasjps&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jonasjps&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> 
     
 </div>
   
