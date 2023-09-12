@@ -1,4 +1,6 @@
-<p>Olá! Sou um desenvolvedor front-end, atualmente cursando JavaScript puro, absolutamente apaixonado por tecnologia.</p>
+<div>
+  <p>Olá! Sou um desenvolvedor front-end, atualmente cursando JavaScript puro, absolutamente apaixonado por tecnologia.</p>
+</div> 
   <div align="center" >
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
