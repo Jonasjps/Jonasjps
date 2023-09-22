@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<p align="right">
+<p align="rigth">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript" />
     
