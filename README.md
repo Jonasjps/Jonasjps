@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Jonas Pessoa 🖐️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonasjpsjw/)
-
 ![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonasjps&Jonasjps&icons=true&theme=chartreuse-dark&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?theme=chartreuse-dark&username=Jonasjps&layout=compact)
